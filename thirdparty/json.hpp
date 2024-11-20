@@ -1,9 +1,3 @@
-/***
- * @Author: jyx
- * @Date: 2024-11-09 10:19:03
- * @LastEditors: jyx
- * @Description:
- */
 /*
     __ _____ _____ _____
  __|  |   __|     |   | |  JSON for Modern C++
