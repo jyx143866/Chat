@@ -31,6 +31,7 @@ private:
 
     TcpServer _server; // 组合的muduo库，实现服务器功能的类对象
     EventLoop *_loop;  // 指向事件循环的对象指针
+
 };
 
 #endif
